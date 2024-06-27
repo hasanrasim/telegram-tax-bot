@@ -1,0 +1,7 @@
+Sual: Vergi ödəyicilərinin öhdəlikləri nələrdir?
+Cavab: Vergi ödəyicilərinin öhdəlikləri: ...
+---
+Sual: Vergi məcəlləsinin əsas məqsədi nədir?
+Cavab: Vergi məcəlləsinin əsas məqsədi: ...
+---
+# Digər sual-cavab cütləri də bu şəkildə əlavə edin

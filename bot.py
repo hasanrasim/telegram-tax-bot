@@ -1,10 +1,9 @@
 from telegram.ext import Updater, CommandHandler, MessageHandler, Filters
 import openai
-import os
 
-# API açarlarını konfiqurasiya edin
-TELEGRAM_API_KEY = os.getenv('TELEGRAM_API_KEY')
-OPENAI_API_KEY = os.getenv('OPENAI_API_KEY')
+# API anahtarlarını doğrudan kod içine yerleştir
+TELEGRAM_API_KEY = '7378375185:AAFu0drKe0WY3SZa4bq-dvwPpAlH46LAMOc'
+OPENAI_API_KEY = 'sk-proj-mNTjx0aI6gshrBmigp0kT3BlbkFJ4ileEg7IBeyAUqJdZtQa'
 openai.api_key = OPENAI_API_KEY
 
 def start(update, context):
@@ -31,3 +30,4 @@ def main():
 
 if __name__ == '__main__':
     main()
+
